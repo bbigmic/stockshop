@@ -249,7 +249,7 @@ export default function HomePage() {
             <Link href="/register" className="btn-primary text-lg px-8 py-4 bg-white text-primary-600 hover:bg-gray-100">
               Załóż konto
             </Link>
-            <Link href="/contact" className="btn-secondary text-lg px-8 py-4 border-white text-white hover:bg-white hover:text-primary-600">
+            <Link href="/contact" className="btn-secondary text-lg px-8 py-4 border-white hover:bg-white hover:text-primary-600">
               Skontaktuj się
             </Link>
           </div>
